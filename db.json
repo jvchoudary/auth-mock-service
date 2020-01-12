@@ -1,6 +1,5 @@
 {
-	"auth": {
-		"validUser": {
+	"auth/validUser": {
 			"companyName": "Jammy",
 			"companyId": "9F6D77DF9BAF49D3ADAF9BA08E0F559D",
 			"email": "rahul.dravid@uatmail.com",
@@ -34,6 +33,5 @@
 			"contextParam": "",
 			"importIb": "Y",
 			"chromeToggle": false
-		}
 	} 
 }
